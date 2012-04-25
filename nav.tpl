@@ -1,13 +1,13 @@
 
 <nav>
 
-		<ul>
+		<ul data-theme="a">
 			<li>
-				<a href="$nav.network.0" title="$nav.network.3" class="ui-btn-active">$nav.network.1</a>
+				<a href="$nav.network.0" title="$nav.network.3">$nav.network.1</a>
 			</li>
 			
 			<li>
-				<a href="$nav.home.0" title="$nav.home.3" >$nav.home.1</a>
+				<a href="$nav.home.0" title="$nav.home.3" class="ui-btn-active" >$nav.home.1</a>
 			</li>
 
 			<li>
